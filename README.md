@@ -45,8 +45,7 @@ I enjoy building full-stack solutions and continuously learning new technologies
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/poonam-yourprofile)  
-- 🌍 [Portfolio](https://harshrb2424.github.io/profile/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/poonam-yourprofile)   
 - ✉️ Email: harshrb2424@gmail.com  
 
 ---
