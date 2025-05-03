@@ -1,33 +1,54 @@
-# 👋 Hello, I'm Poonam Biradar!
+# 👩‍💻 Poonam – Web Developer
 
-I'm a second-year B.Tech student at Jawaharlal Nehru Technological University Hyderabad, deeply immersed in the world of software development. My strong passion for contributing and learning from the dynamic open-source community drives my journey. 🚀
+Hi there! I’m Poonam — a passionate web developer with a strong interest in creating user-friendly websites and applications.  
+I enjoy building full-stack solutions and continuously learning new technologies.  
 
-## 🌱 Learning and Growth
 
-As a dedicated student of JNTU Hyderabad, I actively hone my skills in:
+---
 
-- **Programming Languages**: Proficient in JavaScript, Python, and C++
-- **Web Development**: Experienced in HTML, CSS, and currently mastering React. Exploring popular web development frameworks like Node.js and Angular.js to elevate project capabilities.
-- **Frameworks**: Engaging with and mastering relevant frameworks such as Electron and Angular.js, staying at the forefront of modern web development trends.
-- **Desktop Applications**: Proficient in Electron
-- **Areas of Interest**: Building a strong foundation in Data Structures and Algorithms.
+## 📌 Personal Info
 
-## 💼 Software Development Journey
+- 📍 **Location**: Hyderabad, India  
+- 📧 **Email**: poonam.bhojclg@gmail.com  
 
-Committed to continuous skill refinement and gaining practical experience in software development, I focus on advancing in the dynamic field of web technologies, encompassing both front-end and back-end technologies. While major projects are in the pipeline, I'm actively preparing to embark on this exciting journey, with a keen interest in contributing to open-source projects.
+---
 
-## 🤝 Open to Collaboration
+## 💻 Technical Skills
 
-I firmly believe in the transformative power of collaboration. Whether you're a fellow student, an experienced developer, or someone seeking mentorship, I'm eager to connect and collaborate on a diverse range of web development projects involving Node.js, Angular.js, and more. My enthusiasm extends to contributing to open source, fostering innovation through collective effort.
+### 🚀 Web Development
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js, ASP.NET, Django, FastAPI  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
 
-## 🚀 Upcoming Projects
+### ⚙️ Tools & Platforms
+- Git & GitHub, VS Code, Postman, Docker, Firebase, Netlify, Vercel, AWS (Amplify, S3, CloudFront)
 
-In the planning stages for compelling web development projects that leverage the versatility of C++, Node.js, Angular.js, and TypeScript. I'll unveil them soon. Stay tuned for updates and announcements. If you have intriguing ideas or wish to collaborate on web-related projects, please feel free to reach out!
+### 📊 Others
+- UI/UX Design (Figma), WebSockets, PWAs, REST APIs  
+- OOP Concepts, MS Office Suite  
 
-## 📧 Get in Touch
+### 🧠 ML & Data Tools
+- Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Jupyter, Google Colab, Matplotlib, Seaborn  
 
-I'd love to connect with peers, mentors, or anyone passionate about web development and collaboration:
+---
 
-- 📧 Email: biradarpoonam702@gmail.com
+## 🎓 Education
 
-Embark on this exciting web development journey with me, where we can collaboratively create, learn, and thrive. Whether you're a student or an experienced developer, I'm eager to join forces and exchange knowledge! 🌐👨‍💻🤝 Excited about opportunities like #GSoC, let's explore the realms of #WebDevelopment #NodeJS #AngularJS #TypeScript together!
+- **B.Tech in CSE (AI & ML)**  
+  Bhoj Reddy Engineering College for Women | 2023 – Present  
+- **Diploma**  
+  Bhoj Reddy Engineering College for Women | 2020 – 2023  
+- **Schooling**  
+  Takshasila Public School | 2007 – 2020  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/poonam-yourprofile)  
+- 🌍 [Portfolio](https://harshrb2424.github.io/profile/)  
+- ✉️ Email: harshrb2424@gmail.com  
+
+---
+
+_Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration._
