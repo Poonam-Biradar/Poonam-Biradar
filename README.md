@@ -1,91 +1,100 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="./assets/intro.gif" width="850" alt="welcome animation" />
-</p>
-
-<h1 align="center">Hi, I'm <b>Poonam Bhojclg</b> 👋</h1>
-<h3 align="center">Aspiring Frontend Engineer • React & JavaScript • Open-source Contributor</h3>
+<!-- 💫 Intro -->
+<h1 align="center">Hi, I'm <b>Poonam Biradar</b> 👋</h1>
+<h3 align="center">💻 MERN Stack Developer | Open Source Contributor | Lifelong Learner</h3>
 
 ---
 
-### 🌐 Connect with Me
+## 🌟 About Me  
+- 💡 I enjoy building **clean, responsive, and user-friendly** web applications.  
+- 🚀 Skilled in the **MERN stack** — turning creative ideas into full-stack products.  
+- 🌱 Currently learning **Next.js**, **TypeScript**, and advanced React patterns.  
+- 🤝 Open to **collaborations** and contributing to **open-source** projects.  
+- 🎯 I believe in **clean code, consistency, and growth through building**.  
+
+---
+
+## ⚙️ Tech Stack
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
-  <a href="https://github.com/poonam-bhojclg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>✨ My MERN Stack & Frontend Skills — building full-stack web applications ✨</i></p>
+
+---
+
+## 🚀 Featured Projects  
+
+| 🧩 Project | 📘 Description | ⚙️ Tech Stack |
+|-------------|----------------|---------------|
+| [**CodeCollaboration**](https://github.com/YOUR_REPO_LINK) | Real-time collaborative coding platform with built-in meetings. | React • Node.js • Socket.io |
+| [**JobSwift**](https://github.com/YOUR_REPO_LINK) | One-click job application aggregator with resume matching. | MERN Stack |
+| [**Habit Tracker**](https://github.com/YOUR_REPO_LINK) | Simple and elegant habit tracking app. | React • Local Storage |
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poonam-Biradar&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Biradar&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Poonam-Biradar&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Poonam-Biradar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🔭 About Me
-
-💡 I love transforming creative ideas into functional, beautiful web experiences.  
-💻 I build **clean, responsive, and accessible interfaces** using **React and modern JavaScript**.  
-🌱 Currently exploring **Next.js**, **TypeScript**, and **React performance optimization**.  
-🤝 Always open to collaborating on **open-source projects** and learning from the community.  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github,vscode,figma,vercel&theme=light" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [**CodeCollaboration**](https://github.com/YOUR_REPO_LINK) | Real-time pair programming platform with integrated meetings. | React • Socket.io • Node.js |
-| [**JobSwift**](https://github.com/YOUR_REPO_LINK) | One-click job application aggregator with smart matching. | MERN Stack |
-| [**Habit Tracker**](https://github.com/YOUR_REPO_LINK) | Personalized habit tracking app with smart reminders. | React • Local Storage |
-
-✨ *Tip: Keep your best 2-4 projects pinned on GitHub so they appear under "Popular repositories".*
-
----
-
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=poonam-bhojclg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=poonam-bhojclg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
-## 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=poonam-bhojclg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 💬 Get in Touch
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/YOUR_HANDLE) *(optional)*  
-
----
-
-## ✨ Tips to Keep Your Profile Vibrant
-
-🌱 Contribute small commits regularly — it keeps your contribution graph glowing.  
-📚 Share learning projects — even small experiments help others learn from you.  
-🎨 Use a **custom header GIF** (`assets/intro.gif`) for your personal touch.  
-⭐ Star and fork cool open-source projects — it shows engagement and learning.  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F783B7&center=true&vCenter=true&width=600&lines=✨+Keep+Learning+%26+Building!+✨;🌱+Open+Source+is+the+Best+Way+to+Grow!+🌱;🚀+Believe+in+Code+and+Consistency!+🚀" alt="typing animation" />
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F783B7&center=true&vCenter=true&width=600&lines=✨+Keep+Learning+%26+Building!;🚀+Consistency+Beats+Perfection!;🌱+Open+Source+is+Growth!;" alt="typing animation" />
+</p> -->
