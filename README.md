@@ -62,11 +62,9 @@
 ---
 
 ## 📊 GitHub Stats & Top Languages
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=poonam-bhojclg&show_icons=true&theme=tokyonight&count_private=true" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-bhojclg&layout=compact&theme=tokyonight" />
-</p>
+<img alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=poonam-bhojclg&show_icons=true&theme=tokyonight&count_private=true" />
+<img alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=poonam-bhojclg&layout=compact&theme=tokyonight" />
+
 
 ---
 
